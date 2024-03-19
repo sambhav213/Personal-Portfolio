@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
@@ -87,7 +88,7 @@ const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full"}>
-          <img
+          <Image
             className="w-full h-auto"
             src={`https://skillicons.dev/icons?i=py,opencv,sklearn,tensorflow,r,anaconda,vscode,html,css,bootstrap,tailwind,js,jquery,mongodb,express,react,nodejs,npm,babel,vite,postgres,mysql,postman,codepen,nextjs,threejs,eclipse,java,git,github,powershell,linux,ubuntu,arduino,raspberrypi`}
             alt="CodeBucks"

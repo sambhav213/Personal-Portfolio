@@ -11,7 +11,7 @@ export default function Contact() {
     <>
       <Image
         src={bg}
-        alt="Next.js Portfolio website's contact page background image"
+        alt="Next.js Portfolio website&#39;s contact page background image"
         priority
         sizes="100vw"
         className="-z-50 fixed top-0 left-0 w-full h-full object-cover object-center opacity-50"
@@ -23,7 +23,7 @@ export default function Contact() {
           Reach out to me
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-          Feel free to get in touch with me for any inquiries, collaboration opportunities, or just to say hello! Whether you have a project in mind, want to discuss potential partnerships, or simply wish to connect, I'm here to listen. our feedback, questions, and ideas are always welcome, and I'm excited to engage with you. Let's explore how we can work together to create meaningful connections and impactful projects. Looking forward to hearing from you soon!
+          Feel free to get in touch with me for any inquiries, collaboration opportunities, or just to say hello! Whether you have a project in mind, want to discuss potential partnerships, or simply wish to connect, I&#39;m here to listen. our feedback, questions, and ideas are always welcome, and I&#39;m excited to engage with you. Let&#39;s explore how we can work together to create meaningful connections and impactful projects. Looking forward to hearing from you soon!
           </p>
         </div>
         <Form />
