@@ -16,7 +16,7 @@ const AboutDetails = () => {
             Student at Amity University
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          I am Sambhav Gupta, a driven 3rd-year student at Amity University, with a diverse skill set spanning MERN Stack development, Data Science, Machine Learning, and Advanced Java. My passion lies in software engineering, where I excel in crafting innovative solutions. Noteworthy achievements include being a grand finalist in the Smart India Hackathon 2023, demonstrating my ability to tackle complex challenges while showcasing the proposed solutions and representing the University at the global platform. Additionally, I had the privilege of exhibiting at India's International Science Festival 2023, underscoring my dedication to pushing the boundaries of technology and science. With my technical expertise and innovative mindset, I am poised to make significant contributions in the technology sector.
+          I am Sambhav Gupta, a driven 3rd-year student at Amity University, with a diverse skill set spanning MERN Stack development, Data Science, Machine Learning, and Advanced Java. My passion lies in software engineering, where I excel in crafting innovative solutions. Noteworthy achievements include being a grand finalist in the Smart India Hackathon 2023, demonstrating my ability to tackle complex challenges while showcasing the proposed solutions and representing the University at the global platform. Additionally, I had the privilege of exhibiting at India&#39;s International Science Festival 2023, underscoring my dedication to pushing the boundaries of technology and science. With my technical expertise and innovative mindset, I am poised to make significant contributions in the technology sector.
           </p>
         </ItemLayout>
 
@@ -132,7 +132,7 @@ const AboutDetails = () => {
                 <table className="w-full table-auto">
                   <tbody>
                     <tr>
-                      <td className="px-4 py-2">India's International Science Festival 2023</td>
+                      <td className="px-4 py-2">India&#39;s International Science Festival 2023</td>
                       <td className="px-4 py-2">Exhibitor</td>
                     </tr>
                     <tr>
