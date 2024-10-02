@@ -16,7 +16,7 @@ const AboutDetails = () => {
             Student at Amity University
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          I am Sambhav Gupta, a driven 3rd-year student at Amity University, with a diverse skill set spanning MERN Stack development, Data Science, Machine Learning, and Advanced Java. My passion lies in software engineering, where I excel in crafting innovative solutions. Noteworthy achievements include being a grand finalist in the Smart India Hackathon 2023, demonstrating my ability to tackle complex challenges while showcasing the proposed solutions and representing the University at the global platform. Additionally, I had the privilege of exhibiting at India&#39;s International Science Festival 2023, underscoring my dedication to pushing the boundaries of technology and science. With my technical expertise and innovative mindset, I am poised to make significant contributions in the technology sector.
+          I am Sambhav Gupta, a driven final year student at Amity University, with a diverse skill set spanning MERN Stack development, Data Science, Machine Learning, and Advanced Java. My passion lies in software engineering, where I excel in crafting innovative solutions. Noteworthy achievements include being a grand finalist in the Smart India Hackathon 2023, demonstrating my ability to tackle complex challenges while showcasing the proposed solutions and representing the University at the global platform. Additionally, I had the privilege of exhibiting at India&#39;s International Science Festival 2023, underscoring my dedication to pushing the boundaries of technology and science. With my technical expertise and innovative mindset, I am poised to make significant contributions in the technology sector.
           </p>
         </ItemLayout>
 
@@ -47,11 +47,23 @@ const AboutDetails = () => {
                   <tbody>
                     <tr>
                       <td className="px-4 py-2">The Complete 2023 Web Development Bootcamp</td>
-                      <td className="px-4 py-2">By Dr.Angela Yu, Udemy</td>
+                      <td className="px-4 py-2">By Dr.Angela Yu Udemy</td>
                     </tr>
                     <tr>
                       <td className="px-4 py-2">Complete 2022 Data Science & Machine Learning Bootcamp</td>
-                      <td className="px-4 py-2">By Philipp Muellauer, Udemy</td>
+                      <td className="px-4 py-2">By Philipp Muellauer Udemy</td>
+                    </tr>
+                    <tr>
+                      <td className="px-4 py-2">Python for Data Science</td>
+                      <td className="px-4 py-2">NPTEL</td>
+                    </tr>
+                    <tr>
+                      <a href='https://skillwallet.smartinternz.com/internships/salesforce_certificates/75df63609809c7a2052fdffe5c00a84e'> <td className="px-4 py-2">Salesforce Developer Certification</td>
+                      <td className="px-4 py-2">SmartBridge, AICTE</td></a>
+                    </tr>
+                    <tr>
+                      <td className="px-4 py-2">ServiceNow Micro Certification</td>
+                      <td className="px-4 py-2">Welcome to ServiceNow</td>
                     </tr>
                     {/* Add more rows as needed */}
                   </tbody>
