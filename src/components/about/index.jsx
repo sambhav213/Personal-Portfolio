@@ -58,8 +58,8 @@ const AboutDetails = () => {
                       <td className="px-4 py-2">NPTEL</td>
                     </tr>
                     <tr>
-                      <a href='https://skillwallet.smartinternz.com/internships/salesforce_certificates/75df63609809c7a2052fdffe5c00a84e'> <td className="px-4 py-2">Salesforce Developer Certification</td>
-                      <td className="px-4 py-2">SmartBridge, AICTE</td></a>
+                      <td className="px-4 py-2"><a href='https://skillwallet.smartinternz.com/internships/salesforce_certificates/75df63609809c7a2052fdffe5c00a84e'> Salesforce Developer Certification </a></td>
+                      <td className="px-4 py-2">SmartBridge, AICTE</td>
                     </tr>
                     <tr>
                       <td className="px-4 py-2">ServiceNow Micro Certification</td>
