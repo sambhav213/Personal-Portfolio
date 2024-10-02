@@ -138,11 +138,15 @@ const AboutDetails = () => {
         <ItemLayout className={"col-span-full md:col-span-6 p-8"}>
           <div>
           <h2 className="text-accent font-semibold text-center text-4xl capitalize">
-                Portfolio of Duties
+                Positions of Responsibilities
               </h2>
               <div className="w-full max-w-md mx-auto mt-4">
                 <table className="w-full table-auto">
                   <tbody>
+                    <tr>
+                      <td className="px-4 py-2">Institution&#39;s Innovation Council 7.0</td>
+                      <td className="px-4 py-2">Intellectual Property Rights Head</td>
+                    </tr>
                     <tr>
                       <td className="px-4 py-2">India&#39;s International Science Festival 2023</td>
                       <td className="px-4 py-2">Exhibitor</td>
@@ -159,6 +163,20 @@ const AboutDetails = () => {
                   </tbody>
                 </table>
               </div>
+          </div>
+        </ItemLayout>
+
+        <ItemLayout className={"col-span-full md:col-span-6 p-8"}>
+          <div>
+          <h2 className="text-accent font-semibold text-center text-4xl capitalize">
+                Intellectual Property: Copyright
+              </h2>
+              <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
+            Real-Time Video De-Hazing and Object Detection System with Colormap Jet Visualization
+          </h2>
+          <p className="font-light  text-xs sm:text-sm md:text-base   ">
+          16214/2024-CO/SW: <br>This sophisticated software solution designed to address the challenges posed by adverse environmental conditions such as haze, smoke, fog, and smog in real-time video streams. It offers a comprehensive suite of functionalities aimed at enhancing visibility, facilitating object detection, and improving situational awareness in dynamic and challenging environments. Below is a detailed description of the key components and features of the product. <br>Developed an intelligent AI Algorithm to enhance fog/smoke and hazy environments in real-time from video footage inputs with object detection providing improved visibility in adverse conditions.
+          </p>
           </div>
         </ItemLayout>
       </div>
