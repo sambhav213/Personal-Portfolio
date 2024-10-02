@@ -46,19 +46,19 @@ const AboutDetails = () => {
                 <table className="w-full table-auto">
                   <tbody>
                     <tr>
-                      <td className="px-4 py-2">The Complete 2023 Web Development Bootcamp</td>
+                      <td className="px-4 py-2"><a href='https://www.udemy.com/certificate/UC-fa6eec4a-c748-4d7d-9db7-70095e527026/' target="_blank">The Complete 2023 Web Development Bootcamp</a></td>
                       <td className="px-4 py-2">By Dr.Angela Yu Udemy</td>
                     </tr>
                     <tr>
-                      <td className="px-4 py-2">Complete 2022 Data Science & Machine Learning Bootcamp</td>
+                      <td className="px-4 py-2"><a href='https://www.udemy.com/certificate/UC-59e4592d-c8d1-4785-a2df-d6c34ab748f7/' target="_blank"> Complete 2022 Data Science & Machine Learning Bootcamp</a></td>
                       <td className="px-4 py-2">By Philipp Muellauer Udemy</td>
                     </tr>
                     <tr>
-                      <td className="px-4 py-2">Python for Data Science</td>
+                      <td className="px-4 py-2"><a href='https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs54/Course/NPTEL24CS54S55860077130153970.pdf' target="_blank"> Python for Data Science</a></td>
                       <td className="px-4 py-2">NPTEL</td>
                     </tr>
                     <tr>
-                      <td className="px-4 py-2"><a href='https://skillwallet.smartinternz.com/internships/salesforce_certificates/75df63609809c7a2052fdffe5c00a84e'> Salesforce Developer Certification </a></td>
+                      <td className="px-4 py-2"><a href='https://skillwallet.smartinternz.com/internships/salesforce_certificates/75df63609809c7a2052fdffe5c00a84e' target="_blank"> Salesforce Developer Certification </a></td>
                       <td className="px-4 py-2">SmartBridge, AICTE</td>
                     </tr>
                     <tr>
